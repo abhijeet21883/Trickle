@@ -1,10 +1,6 @@
 Title-
 -Create a form to accept email and password from the user
 - Save the values to the database
-Bonus points:
-- Use git to push code to GitHub
-- Use MongoDB Atlas for database usage
-- Use of React js / typescript / javascript
 
 Languages used: HTML,CSS,Javascript,SQL and PHP
 Screenshots-
