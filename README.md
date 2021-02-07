@@ -1,6 +1,5 @@
 Title
--Create a form to accept email and password from the user
-- Save the values to the database
+-Create a form to accept email and password from the user and save the values to the database
 
 Languages used: HTML,CSS,Javascript,SQL and PHP
 Screenshots-
