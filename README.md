@@ -8,8 +8,9 @@ Bonus points:
 
 Languages used: HTML,CSS,Javascript,SQL and PHP
 Screenshots-
-https://user-images.githubusercontent.com/53680728/107139209-76af7b00-693f-11eb-8b45-a7836b432865.png
-https://user-images.githubusercontent.com/53680728/107139219-90e95900-693f-11eb-8f1f-19e6a4fc3b15.png
+1)https://user-images.githubusercontent.com/53680728/107139209-76af7b00-693f-11eb-8b45-a7836b432865.png
+
+2)https://user-images.githubusercontent.com/53680728/107139219-90e95900-693f-11eb-8f1f-19e6a4fc3b15.png
 
 Technical Description of the project- XAMPP was used to carry out database operation
 
